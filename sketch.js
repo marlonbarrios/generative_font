@@ -37,10 +37,10 @@ function draw() {
  
   computePoint(map(mouseX, 0, 1200, 0.005, 0.05));
 
-  background(20);
+  background(250);
 
   noFill();
-  stroke(255)
+  stroke(100)
  
   beginShape();
 
